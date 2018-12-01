@@ -1,7 +1,7 @@
 {
-  "name": "kushki/kushki-php",
+  "name": "miguelalcaino/kushki-php",
   "description": "Librería PHP para integrarse con KushkiPagos",
-  "homepage": "https://github.com/Kushki/kushki-php",
+  "homepage": "https://github.com/miguelalcaino/kushki-php",
   "type": "library",
   "license": "MIT",
   "version": "1.2.3",
